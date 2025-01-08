@@ -1,0 +1,5 @@
+  canary.integration-status-lotus:
+    env:
+      dev: false
+      hml: false
+      prd: false
